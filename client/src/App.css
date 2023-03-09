@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+ ul a {
+  margin-right: 61px;
+  font-size: 21px;
+  color: white;
+  text-decoration: none;
+}
+ul a:hover {
+  text-decoration: none;
+  color: white;
+}
